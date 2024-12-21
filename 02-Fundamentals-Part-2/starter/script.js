@@ -18,5 +18,5 @@ console.log(appleJuice);
 
 const appleOrangeJuice = fruitProcessor(2, 4);
 console.log(appleOrangeJuice);
-
+let ToDaySS = 'continuing';
 console.log('waitong for the next session');
